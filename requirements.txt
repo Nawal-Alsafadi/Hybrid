@@ -1,5 +1,5 @@
-numpy
 flask==2.3.2
 flask_cors==3.0.10
-scikit-surprise
-
+scikit-surprise==1.1.1
+--use-pep517
+numpy==1.21.2
